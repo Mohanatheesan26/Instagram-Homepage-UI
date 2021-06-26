@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topbar_height">56dp</dimen>
+    <dimen name="story_height">112dp</dimen>
+    <dimen name="bottom_navigation_height">45dp</dimen>
+    <dimen name="story_view_height">64dp</dimen>
+    <dimen name="story_view_width">64dp</dimen>
+    <dimen name="story_view_radious">64dp</dimen>
+    <dimen name="post_view_prof_layout_height">56dp</dimen>
+    <dimen name="post_view_prof_height">40dp</dimen>
+    <dimen name="post_view_prof_width">40dp</dimen>
+    <dimen name="post_view_prof_radious">40dp</dimen>
+    <dimen name="post_view_bottom_layout_height">30dp</dimen>
+</resources>
